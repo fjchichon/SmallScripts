@@ -4,7 +4,8 @@ Created on Mon Sep 30 23:38:29 2024
 
 @author: Conway
 """
-
+#This CODE requires csv files from ImageJ (Analyze Particles)
+#Remember to set the number of SAMPLES you will have in line 45
 # %%%%%%%% STADISTICOS ·····plot···· con varios parametros de entrada
 ######################################
 
