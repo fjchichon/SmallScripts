@@ -3,6 +3,8 @@
 Created on Fri Sep 20 19:19:25 2024
 
 @author: Conway
+#This CODE requires csv files from ImageJ (Analyze Particles)
+#Remember to set the number of SAMPLES you will have in line 45
 """
 
 import pandas as pd
