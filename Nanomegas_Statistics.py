@@ -5,8 +5,11 @@ Created on Mon Sep 30 23:38:29 2024
 @author: Conway
 """
 #This CODE requires csv files from ImageJ (Analyze Particles)
-#Remember to set the number of SAMPLES you will have in line 45
+#Remember to set the number of SAMPLES you will have in line 65
 # %%%%%%%% STADISTICOS ·····plot···· con varios parametros de entrada
+# El código creará graficos BOXPLOT por parametro en la lista params 127. En ellos se compararán cada una de las muestras 
+# y se generarará adicionalmente un plot de similitud estadística entre mustras. Los rojos son iguales y azules son diferentes.
+# generará tabas resumen para cada muestra en texto y tambien un documento de WORD con las tablas
 ######################################
 
 
